@@ -1,0 +1,25 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+  	
+    // match logged in user in profiles collection
+    match /profiles/{profileId} {
+      allow read: if request.auth.uid != null;
+      allow write: if request.auth.uid == profileId;
+    }
+    
+    // match any doc in products collection
+    match /products/{productId} {
+    	allow read;
+      allow write: if request.auth.token.admin == true;
+    }
+    
+    // match any doc in categories collection
+    match /categories/{categoryId} {
+    	allow read;
+      allow write: if request.auth.token.admin == true;
+    }
+
+
+  }
+}

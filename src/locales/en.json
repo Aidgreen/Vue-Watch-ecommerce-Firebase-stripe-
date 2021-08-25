@@ -1,0 +1,196 @@
+{
+  "nav" : {
+    "logo" : "vue-commerce",
+    "home" : "home",
+    "about" : "about",
+    "login" : "login/register",
+    "dropdown" : {
+      "settings" : "profile settings",
+      "logout" : "logout"
+    },
+    "cart" : "cart",
+    "admin" : "admin access"
+  },
+  "jumbotron": {
+    "title" : "create your special e-shop now!",
+    "body" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat fugiat, laboriosam, voluptatem, optio vero odio nam sit officia accusamus minus error nisi architecto nulla ipsum dignissimos. Odit sed qui, dolorum! ",
+    "button": "view project"
+  },
+  "search": {
+    "label": "search products",
+    "input": "search product names",
+    "clear": "clear",
+    "no-res": "no results found"
+  },
+  "total": "total products",
+  "card": {
+    "addToCart": "add to cart",
+    "info": "more info"
+  },
+  "modal" : {
+    "title" : "login/register",
+    "tabs" : {
+      "login" : {
+        "title" : "login",
+        "email": "email",
+        "password" : "password",
+        "button" : "login"
+      },
+      "register" : {
+        "title" : "register",
+        "heading": "create account",
+        "sub-heading": "get started with your free account",
+        "twitter": "login via twitter",
+        "facebook": "login via facebook",
+        "or" : "or",
+        "email" : "email",
+        "email-invalid-1": "This is a required field.",
+        "email-invalid-2": "must be a valid email.",
+        "email-valid": "looks good!",
+        "password" : "password",
+        "password-invalid-1": "This is a required field.",
+        "password-invalid-2": "Field must be",
+        "characters" : "characters",
+        "password-valid": "looks good!",
+        "button" : "create account",
+        "option" : "have an account?",
+        "link" : "login"
+      }
+    },
+    "footer" : "nasr galal designs",
+    "close" : "close"
+  },
+  "intro" : {
+    "title": "Why is it so great?",
+    "body" : "I have designed a Material Design to make the web more beautiful and more user-friendly. Twitter has created a Bootstrap to support you in faster and easier development of responsive and effective websites. I present you a web app containing the best features of both of them - Material Design for Bootstrap."
+  },
+  "alerts": {
+    "verify" : "verify your email address!",
+    "verify-p" : "make sure that you do confirm your email, so that you can use our sevices.",
+    "send-mail": "send e-mail verification",
+    "verify-button" : "verify e-mail to checkout",
+    "login" : "login/signup and start buying!",
+    "login-p" : "make sure that you do confirm your email, so that you can use our sevices.",
+    "login-button" : "verify e-mail to checkout",
+    "graph-construction" : {
+      "title": "under construction",
+      "body" : "this page will contain graphs and widgets to show the current business state",
+      "p": "the new version of app is coming soon!"
+    }
+  },
+  "footer" : {
+    "get-connected": "Get connected with us on social networks!",
+    "comment": "This content is organized and designed by Nasr Galal.",
+    "plugins": "Plugins used",
+    "mdb": "MDBootstrap",
+    "bootstrapvue": "BootstrapVue",
+    "links": "Useful links",
+    "coretabs": "Coretabs academy",
+    "arabcoders": "One Million Arab Coders",
+    "contact": "Contact",
+    "country": "Egypt",
+    "email": "nasrbue@gmail.com",
+    "phone": "+ 20 114 884 3049",
+    "name" : "Nasr Galal",
+    "copyright" : "copyright"
+  },
+  "about" : {
+    "title" : "about us",
+    "content": "I would like to give special thanks to the <strong>One Arab Million Coders</strong> who opened the gate for me to explore the world of web development and accomplish this result <strong>(Vue-Commerce)</strong>.<br><br> Special thanks to <strong>Coretabs academy</strong> for the courses and advices given to assist me building this thing. I have done it on my own <strong>(self-learning)</strong>. It still needs updates which I do work on this year and I am sure that I will produce a competitive content in the market soon.",
+    "programmer": "Application Builder",
+    "nasr": "Nasr Galal",
+    "nasr-job": "Full-Stack Developer",
+    "nasr-quote": "the equation is simple `Patience + passion = something big!`",
+    "teachers": "Instructors who revised the content",
+    "yaser": "Yaser Alnajjar",
+    "yaser-job": "Software Architect & Co-Founder at Coretabs Academy",
+    "yaser-quote": "Did you solve the bug? or still there?",
+    "hakem": "Mohamed AlHakem",
+    "hakem-job": "FOUNDER AT CORETABS ACADEMY",
+    "hakem-quote": "Patience is good"
+  },
+  "cart" : {
+    "title" : "checkout page",
+    "total" : "total price"
+  },
+  "profile" : {
+    "title" : "profile settings",
+    "text" : "Update and change your settings here",
+    "tabs" : {
+      "profile" : {
+        "title" : "profile",
+        "name" : "your name",
+        "address" : "address",
+        "postcode": "postcode",
+        "phone" : "phone number",
+        "button" : "save changes"
+      },
+      "account" : {
+        "title" : "account settings",
+        "username": "username",
+        "email" : "email",
+        "browse" : "browse",
+        "choose" : "choose file",
+        "button-1" : "save changes",
+        "button-2" : "reset password"
+      }
+    }
+  },
+  "adminlogin": {
+    "title" : "admin login",
+    "email" : "your email",
+    "password" : "your password",
+    "button" : "login" 
+  },
+  "adminPage" : {
+    "menu" : {
+      "status" : "online",
+      "search" : "search...",
+      "general" : "general",
+      "overview" : "overview",
+      "products" : "products",
+      "orders" : "orders",
+      "profile" : "profile",
+      "users" : "users",
+      "logout" : "logout"
+    },
+    "overview": {
+      "title" : "overview page",
+      "text" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat quae quisquam quos necessitatibus, nisi, mollitia temporibus expedita aliquam itaque exercitationem qui fugit facere? Temporibus enim aperiam soluta ratione maxime beatae! "
+    },
+    "products" : {
+      "title" : "products page",
+      "text" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat quae quisquam quos necessitatibus, nisi, mollitia temporibus expedita aliquam itaque exercitationem qui fugit facere? Temporibus enim aperiam soluta ratione maxime beatae! ",
+      "list-title" : "products list",
+      "list-button" : "add product",
+      "table" : {
+        "name" : "name",
+        "price" : "price",
+        "images": "images",
+        "categories": "categories",
+        "modify" : {
+          "title": "modify",
+          "edit" : "edit",
+          "delete" : "delete"
+        }
+      },
+      "add-product": {
+        "new-title" : "new product",
+        "edit-title": "edit product",
+        "product-name" : "product name",
+        "product-details" : "product details",
+        "product-price" : "product price",
+        "tags" : "tags",
+        "choose" : "choose a file",
+        "browse" : "browse",
+        "create" : "create",
+        "save" : "save changes",
+        "cancel" : "cancel"
+      }
+    }
+
+  },
+  "checkout": {
+    "quantity" : "Quantity: "
+  }
+}
